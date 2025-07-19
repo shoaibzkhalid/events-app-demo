@@ -1,0 +1,29 @@
+[
+  {
+    "id": "1",
+    "title": "Dua Lipa Concert",
+    "image": "https://eventeam.fr/wp-content/uploads/2024/09/Dua-Lipa.png",
+    "date": "2025-07-22T20:00:00+02:00",
+    "timezone": "Europe/Paris",
+    "location": "Paris",
+    "description": "Dua Lipa brings her world tour to Paris for an unforgettable night of music, lights, and energy at the Accor Arena."
+  },
+  {
+    "id": "2",
+    "title": "Billie Eilish Concert",
+    "image": "https://phantom-marca.unidadeditorial.es/942328dfc5322df8390fcc683d422b53/resize/1320/f/webp/assets/multimedia/imagenes/2022/06/12/16550395220695.jpg",
+    "date": "2025-08-15T19:30:00+02:00",
+    "timezone": "Europe/Paris",
+    "location": "Paris",
+    "description": "Experience Billie Eilish live in concert as she performs her latest hits in an electrifying show filled with emotion and power."
+  },
+  {
+    "id": "3",
+    "title": "Nick Cave Concert",
+    "image": "https://s1.ticketm.net/dam/a/6a3/17c60d4b-355e-4046-99bb-5322c30646a3_RETINA_PORTRAIT_3_2.jpg",
+    "date": "2025-08-15T20:00:00+01:00",
+    "timezone": "Europe/London",
+    "location": "London",
+    "description": "Join Nick Cave and the Bad Seeds for a raw and powerful live performance at the O2 Arena in London."
+  }
+]
