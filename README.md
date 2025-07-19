@@ -38,7 +38,7 @@ A simple Events application demonstrating react native skills for Stackup Soluti
 
 ## Usage
 
-- View all takes you to the list of all events
+- "View all" on home screen takes you to the list of all events
 - Home screen previews 3 top events (top 3 selected for now)
 - You can tap heart icon to add an event to the favorites
-- Tap add to calendar button to the Event to your personal calendar
+- Tap "Add to calendar" button to the Event to your personal calendar
