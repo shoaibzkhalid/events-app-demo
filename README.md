@@ -1,6 +1,6 @@
 # Events App Demo
 
-A simple Events application demonstrating react native skills for Stackup Solutions hiring.
+A simple Events application demonstrating react native skills for hiring.
 
 ![Demo](demo.gif)
 
